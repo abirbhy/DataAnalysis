@@ -12,5 +12,3 @@ To see the solutions of data quallity issues:
 python3 dateissue.py
 python3 namesissue.py
 ```
-
-Abir Ben Haj Youssef
